@@ -1,0 +1,34 @@
+{
+  "name": "center_deployv0.1",
+  "version": "1.0.0",
+  "main": "readExcel.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ant-design/charts": "^2.4.0",
+    "antd": "^5.26.2",
+    "chart.js": "^4.4.8",
+    "chartjs-plugin-annotation": "^3.1.0",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "vite": "^5.0.8"
+  }
+}
